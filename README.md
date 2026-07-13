@@ -37,3 +37,4 @@ This project was created to practice HTML forms and improve my understanding of 
 **Shagun Gupta**
 
 GitHub: https://github.com/gshagun16
+Live Demo:  https://gshagun16.github.io/college-admission-form/
